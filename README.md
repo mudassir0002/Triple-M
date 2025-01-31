@@ -7,7 +7,10 @@ CyberPurge is an intelligent and scalable **fraud detection and prevention syste
 ## 🔥 Proposed Solution
 CyberPurge operates through a **multi-layered risk assessment framework** that continuously monitors and analyzes user activities, behavioral patterns, network anomalies, and content authenticity. The system assigns a **fraud risk score** based on these factors, allowing for dynamic fraud detection with high accuracy.
 
-### Key Components:
+## 📥 Download
+You can download the full project document [CyberPurge](https://github.com/mudassir0002/Triple-M/CyberPurge.docx).
+
+## Key Components:
 - **Risk Scoring Engine** – Assesses fraud probability based on multiple weighted parameters such as profile verification, login history, and social network patterns.
 - **Automated Review Pipeline** – Classifies accounts into risk categories, triggering appropriate actions.
   - **Low Risk (0-60%)**: No action required.
@@ -26,7 +29,7 @@ CyberPurge operates through a **multi-layered risk assessment framework** that c
 - **Integration**: APIs to sync with social media platforms (e.g., Meta’s Graph API for 
 Facebook/Instagram).
 
-##FLowChart:
+## FLowChart:
 
 ![image](https://github.com/user-attachments/assets/68f881fc-89a9-4985-83ed-e8e2ce29a1fa)
 
