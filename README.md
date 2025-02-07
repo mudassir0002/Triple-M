@@ -29,7 +29,7 @@ You can download the full project document [CyberPurge](CyberPurge.docx).
 - **Integration**: APIs to sync with social media platforms (e.g., Meta’s Graph API for 
 Facebook/Instagram).
 
-## FLowChart:
+## FLowChart Demo:
 
 ![image](https://github.com/user-attachments/assets/68f881fc-89a9-4985-83ed-e8e2ce29a1fa)
 
